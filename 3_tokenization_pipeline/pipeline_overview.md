@@ -12,14 +12,7 @@ Tokenization is a multi-stage pipeline tightly integrated with the LLM.
 
 ## Visualization
 
-Raw Text
-↓
-Tokenizer
-↓
-Token IDs
-↓
-Embedding Layer
-↓
-Transformer Model
+Raw Text > Tokenizer > Token IDs > Embedding Layer > Transformer Model
+
 
 Each stage influences accuracy and security.
